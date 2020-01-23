@@ -1,0 +1,4 @@
+#Thu Jan 23 13:25:56 CET 2020
+base.0=C\:\\Users\\vvall\\Desktop\\flutter_video_player\\example\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
